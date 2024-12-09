@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:toktik_app/discover/entities/video_post.dart';
-import 'package:toktik_app/shared/widgets/full_screen_player.dart';
-import 'package:toktik_app/shared/widgets/video_buttons.dart';
+import 'package:toktik_app/discover/widgets/full_screen_player.dart';
+import 'package:toktik_app/discover/widgets/video_buttons.dart';
 
 /// Video Scrollable View
 /// 
