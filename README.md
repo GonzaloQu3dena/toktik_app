@@ -1,4 +1,4 @@
-# Video App
+# TokTik App
 
 ## Summary
 
