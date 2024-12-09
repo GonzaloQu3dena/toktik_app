@@ -8,19 +8,6 @@ import 'package:toktik_app/discover/screens/discover_screen.dart';
 import 'package:toktik_app/discover/services/multimedia_service.dart';
 
 Future<void> main() async {
-  //await dotenv.load(fileName: ".env");
-//
-  //final multimediaService = MultimediaService(
-  //  apiKey: dotenv.env['API_KEY']!,
-  //  baseUrl: dotenv.env['API_URL']!,
-  //);
-//
-  //try {
-  //  final videoData = await multimediaService.getVideosByCategory('nature');
-  //  print('Videos related to "nature": $videoData');
-  //} catch (e) {
-  //  print('Error: $e');
-  //}
 
   await dotenv.load(fileName: ".env");
 
