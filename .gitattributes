@@ -1,6 +1,2 @@
-
+* linguist-vendored
 *.dart linguist-language=Dart
-/ios/* linguist-vendored
-/android/* linguist-vendored
-*.c linguist-generated
-*.cpp linguist-generated
