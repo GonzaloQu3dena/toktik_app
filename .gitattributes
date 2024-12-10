@@ -1,2 +1,8 @@
-* linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.c linguist-vendored
+*.html linguist-vendored
+*.swift linguist-vendored
+*.cmake linguist-vendored
+
 *.dart linguist-language=Dart
